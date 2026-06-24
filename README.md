@@ -83,7 +83,7 @@ mlflow --version    # Should show mlflow, version 3.x.x
 
 ---
 
-## Seed Fake Experiment Data (Optional)
+## Seed Dummy Experiment Data To Test MCP (Optional)
 
 If you don't have real MLflow experiments, run the seed script to populate fake but realistic data:
 
